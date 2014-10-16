@@ -1,0 +1,38 @@
+CNTRY_NAME,CNTRY_CODE,ADM1_NAME,ADM1_CODE,HRname,HRpcode,HRparent
+Nigeria,NGA,Abia,NGA001,Abia,NG001,NG
+Nigeria,NGA,Adamawa,NGA002,Adamawa,NG002,NG
+Nigeria,NGA,Akwa lbom,NGA003,Akwa lbom,NG003,NG
+Nigeria,NGA,Anambra,NGA004,Anambra,NG004,NG
+Nigeria,NGA,Bauchi,NGA005,Bauchi,NG005,NG
+Nigeria,NGA,Bayelsa,NGA006,Bayelsa,NG006,NG
+Nigeria,NGA,Benue,NGA007,Benue,NG007,NG
+Nigeria,NGA,Borno,NGA008,Borno,NG008,NG
+Nigeria,NGA,Cross River,NGA009,Cross River,NG009,NG
+Nigeria,NGA,Delta,NGA010,Delta,NG010,NG
+Nigeria,NGA,Ebonyi,NGA011,Ebonyi,NG011,NG
+Nigeria,NGA,Edo,NGA012,Edo,NG012,NG
+Nigeria,NGA,Ekiti,NGA013,Ekiti,NG013,NG
+Nigeria,NGA,Enugu,NGA014,Enugu,NG014,NG
+Nigeria,NGA,Federal Capital Territory,NGA015,Federal Capital Territory,NG015,NG
+Nigeria,NGA,Gombe,NGA016,Gombe,NG016,NG
+Nigeria,NGA,Imo,NGA017,Imo,NG017,NG
+Nigeria,NGA,Jigawa,NGA018,Jigawa,NG018,NG
+Nigeria,NGA,Kaduna,NGA019,Kaduna,NG019,NG
+Nigeria,NGA,Kano,NGA020,Kano,NG020,NG
+Nigeria,NGA,Katsina,NGA021,Katsina,NG021,NG
+Nigeria,NGA,Kebbi,NGA022,Kebbi,NG022,NG
+Nigeria,NGA,Kogi,NGA023,Kogi,NG023,NG
+Nigeria,NGA,Kwara,NGA024,Kwara,NG024,NG
+Nigeria,NGA,Lagos,NGA025,Lagos,NG025,NG
+Nigeria,NGA,Nasarawa,NGA026,Nasarawa,NG026,NG
+Nigeria,NGA,Niger,NGA027,Niger,NG027,NG
+Nigeria,NGA,Ogun,NGA028,Ogun,NG028,NG
+Nigeria,NGA,Ondo,NGA029,Ondo,NG029,NG
+Nigeria,NGA,Osun,NGA030,Osun,NG030,NG
+Nigeria,NGA,Oyo,NGA031,Oyo,NG031,NG
+Nigeria,NGA,Plateau,NGA032,Plateau,NG032,NG
+Nigeria,NGA,Rivers,NGA033,Rivers,NG033,NG
+Nigeria,NGA,Sokoto,NGA034,Sokoto,NG034,NG
+Nigeria,NGA,Taraba,NGA035,Taraba,NG035,NG
+Nigeria,NGA,Yobe,NGA036,Yobe,NG036,NG
+Nigeria,NGA,Zamfara,NGA037,Zamfara,NG037,NG

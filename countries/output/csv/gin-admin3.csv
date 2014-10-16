@@ -1,0 +1,341 @@
+CNTRY_NAME,CNTRY_CODE,ADM1_NAME,ADM1_PCODE,ADM2_NAME,ADM2_PCODE,ADM3_NAME,ADM3_PCODE,NATREG
+Guinea,GIN,Faranah,GIN003,Kissidougou,GIN003004,Albadariah,GIN00300401,Guinee Forestiere
+Guinea,GIN,Kindia,GIN005,Forecariah,GIN005003,Allassoyah,GIN00500301,Basse Guinee
+Guinea,GIN,Faranah,GIN003,Dabola,GIN003001,Arfamoussayah,GIN00300101,Haute Guinee
+Guinea,GIN,Kankan,GIN004,Kouroussa,GIN004003,Babila,GIN00400301,Haute Guinee
+Guinea,GIN,Kindia,GIN005,Dubreka,GIN005002,Badi,GIN00500201,Basse Guinee
+Guinea,GIN,Kindia,GIN005,Fria,GIN005006,Baguinet,GIN00500601,Basse Guinee
+Guinea,GIN,Labe,GIN006,Mali,GIN006004,Balaki,GIN00600401,Moyenne Guinee
+Guinea,GIN,Kankan,GIN004,Kankan,GIN004001,Balandougou,GIN00400101,Haute Guinee
+Guinea,GIN,Kankan,GIN004,Mandiana,GIN004004,Balandougouba,GIN00400401,Haute Guinee
+Guinea,GIN,Kankan,GIN004,Kouroussa,GIN004003,Balato,GIN00400302,Haute Guinee
+Guinea,GIN,Labe,GIN006,Lelouma,GIN006003,Balaya,GIN00600301,Moyenne Guinee
+Guinea,GIN,Nzerekore,GIN008,Macenta,GIN008003,Balizia,GIN00800301,Guinee Forestiere
+Guinea,GIN,Faranah,GIN003,Kissidougou,GIN003004,Banama,GIN00300402,Guinee Forestiere
+Guinea,GIN,Kankan,GIN004,Kerouane,GIN004002,Banankoro,GIN00400201,Haute Guinee
+Guinea,GIN,Kankan,GIN004,Kouroussa,GIN004003,Banfele,GIN00400303,Haute Guinee
+Guinea,GIN,Kindia,GIN005,Kindia,GIN005004,Bangouya,GIN00500401,Basse Guinee
+Guinea,GIN,Kindia,GIN005,Fria,GIN005006,Banguigny,GIN00500602,Basse Guinee
+Guinea,GIN,Nzerekore,GIN008,Yomou,GIN008005,Banie,GIN00800501,Guinee Forestiere
+Guinea,GIN,Faranah,GIN003,Dabola,GIN003001,Banko,GIN00300102,Haute Guinee
+Guinea,GIN,Kankan,GIN004,Siguiri,GIN004005,Bankon,GIN00400501,Haute Guinee
+Guinea,GIN,Faranah,GIN003,Dinguiraye,GIN003002,Banora,GIN00300201,Haute Guinee
+Guinea,GIN,Mamou,GIN007,Pita,GIN007003,Bantignel,GIN00700301,Moyenne Guinee
+Guinea,GIN,Faranah,GIN003,Kissidougou,GIN003004,Bardou,GIN00300403,Guinee Forestiere
+Guinea,GIN,Kankan,GIN004,Kouroussa,GIN004003,Baro,GIN00400304,Haute Guinee
+Guinea,GIN,Kankan,GIN004,Kankan,GIN004001,Bate Nafadji,GIN00400102,Haute Guinee
+Guinea,GIN,Faranah,GIN003,Kissidougou,GIN003004,Beindou,GIN00300404,Haute Guinee
+Guinea,GIN,Faranah,GIN003,Faranah,GIN003003,Beindou,GIN00300302,Haute Guinee
+Guinea,GIN,Kindia,GIN005,Forecariah,GIN005003,Benty,GIN00500302,Basse Guinee
+Guinea,GIN,Nzerekore,GIN008,Beyla,GIN008001,Beyla Ctre,GIN00800101,Guinee Forestiere
+Guinea,GIN,Nzerekore,GIN008,Yomou,GIN008005,Bheeta,GIN00800502,Guinee Forestiere
+Guinea,GIN,Nzerekore,GIN008,Yomou,GIN008005,Bignamou,GIN00800503,Guinee Forestiere
+Guinea,GIN,Nzerekore,GIN008,Macenta,GIN008003,Binikala,GIN00800302,Guinee Forestiere
+Guinea,GIN,Boke,GIN001,Boke,GIN001002,Bintimodia,GIN00100201,Basse Guinee
+Guinea,GIN,Faranah,GIN003,Dabola,GIN003001,Bissikrima,GIN00300103,Haute Guinee
+Guinea,GIN,Mamou,GIN007,Dalaba,GIN007001,Bodie,GIN00700101,Moyenne Guinee
+Guinea,GIN,Boke,GIN001,Boffa,GIN001001,Boffa Ctre,GIN00100101,Basse Guinee
+Guinea,GIN,Nzerekore,GIN008,Macenta,GIN008003,Bofossou,GIN00800303,Guinee Forestiere
+Guinea,GIN,Boke,GIN001,Boke,GIN001002,Boke Ctre,GIN00100202,Basse Guinee
+Guinea,GIN,Nzerekore,GIN008,Gueckedou,GIN008006,Bolodou,GIN00800601,Guinee Forestiere
+Guinea,GIN,Nzerekore,GIN008,Beyla,GIN008001,Boola,GIN00800102,Guinee Forestiere
+Guinea,GIN,Nzerekore,GIN008,Lola,GIN008002,Bossou,GIN00800201,Guinee Forestiere
+Guinea,GIN,Kankan,GIN004,Kankan,GIN004001,Boula,GIN00400103,Haute Guinee
+Guinea,GIN,Mamou,GIN007,Mamou,GIN007002,Bouliwel,GIN00700201,Moyenne Guinee
+Guinea,GIN,Nzerekore,GIN008,Nzerekore,GIN008004,Bounouma,GIN00800401,Guinee Forestiere
+Guinea,GIN,Kindia,GIN005,Telemele,GIN005005,Bourouwal,GIN00500501,Basse Guinee
+Guinea,GIN,Nzerekore,GIN008,Yomou,GIN008005,Bowe,GIN00800504,Guinee Forestiere
+Guinea,GIN,Mamou,GIN007,Pita,GIN007003,Brouwal Tape,GIN00700302,Moyenne Guinee
+Guinea,GIN,Kankan,GIN004,Kouroussa,GIN004003,Cissela,GIN00400305,Haute Guinee
+Guinea,GIN,Kindia,GIN005,Coyah,GIN005001,Coyah Ctre,GIN00500101,Basse Guinee
+Guinea,GIN,Boke,GIN001,Boke,GIN001002,Dabiss,GIN00100203,Basse Guinee
+Guinea,GIN,Faranah,GIN003,Dabola,GIN003001,Dabola Ctre,GIN00300104,Haute Guinee
+Guinea,GIN,Mamou,GIN007,Dalaba,GIN007001,Dalaba Ctre,GIN00700102,Moyenne Guinee
+Guinea,GIN,Labe,GIN006,Labe,GIN006002,Dalein,GIN00600201,Moyenne Guinee
+Guinea,GIN,Kindia,GIN005,Kindia,GIN005004,Damakania,GIN00500402,Basse Guinee
+Guinea,GIN,Kankan,GIN004,Kerouane,GIN004002,Damaro,GIN00400202,Haute Guinee
+Guinea,GIN,Labe,GIN006,Labe,GIN006002,Daralabe,GIN00600202,Moyenne Guinee
+Guinea,GIN,Kindia,GIN005,Telemele,GIN005005,Daramagnaky,GIN00500502,Basse Guinee
+Guinea,GIN,Nzerekore,GIN008,Macenta,GIN008003,Daro,GIN00800304,Guinee Forestiere
+Guinea,GIN,Faranah,GIN003,Dinguiraye,GIN003002,Dialakoro,GIN00300202,Haute Guinee
+Guinea,GIN,Kankan,GIN004,Mandiana,GIN004004,Dialokoro,GIN00400402,Haute Guinee
+Guinea,GIN,Nzerekore,GIN008,Beyla,GIN008001,Diaraguerela,GIN00800103,Guinee Forestiere
+Guinea,GIN,Labe,GIN006,Labe,GIN006002,Diari,GIN00600203,Moyenne Guinee
+Guinea,GIN,Nzerekore,GIN008,Beyla,GIN008001,Diassodou,GIN00800104,Guinee Forestiere
+Guinea,GIN,Faranah,GIN003,Dinguiraye,GIN003002,Diatifere,GIN00300203,Haute Guinee
+Guinea,GIN,Nzerekore,GIN008,Yomou,GIN008005,Diecke,GIN00800505,Guinee Forestiere
+Guinea,GIN,Faranah,GIN003,Dinguiraye,GIN003002,Dinguiraye Ctre,GIN00300204,Haute Guinee
+Guinea,GIN,Labe,GIN006,Labe,GIN006002,Dionfo,GIN00600204,Moyenne Guinee
+Guinea,GIN,Labe,GIN006,Lelouma,GIN006003,Diontou,GIN00600302,Moyenne Guinee
+Guinea,GIN,Mamou,GIN007,Dalaba,GIN007001,Ditinn,GIN00700103,Moyenne Guinee
+Guinea,GIN,Faranah,GIN003,Dabola,GIN003001,Dogomet,GIN00300105,Haute Guinee
+Guinea,GIN,Kankan,GIN004,Siguiri,GIN004005,Doko,GIN00400502,Haute Guinee
+Guinea,GIN,Labe,GIN006,Mali,GIN006004,Donghol Sigon,GIN00600402,Moyenne Guinee
+Guinea,GIN,Mamou,GIN007,Pita,GIN007003,Donghol Touma,GIN00700303,Moyenne Guinee
+Guinea,GIN,Kankan,GIN004,Kouroussa,GIN004003,Douako,GIN00400306,Haute Guinee
+Guinea,GIN,Labe,GIN006,Mali,GIN006004,Dougountouny,GIN00600403,Moyenne Guinee
+Guinea,GIN,Mamou,GIN007,Mamou,GIN007002,Dounet,GIN00700202,Moyenne Guinee
+Guinea,GIN,Boke,GIN001,Boffa,GIN001001,Douprou,GIN00100102,Basse Guinee
+Guinea,GIN,Kankan,GIN004,Kouroussa,GIN004003,Doura,GIN00400307,Haute Guinee
+Guinea,GIN,Kindia,GIN005,Dubreka,GIN005002,Dubreka Ctre,GIN00500202,Basse Guinee
+Guinea,GIN,Labe,GIN006,Koubia,GIN006001,Fafaya,GIN00600101,Moyenne Guinee
+Guinea,GIN,Kindia,GIN005,Dubreka,GIN005002,Falessade,GIN00500203,Basse Guinee
+Guinea,GIN,Nzerekore,GIN008,Gueckedou,GIN008006,Fangamadou,GIN00800602,Guinee Forestiere
+Guinea,GIN,Kankan,GIN004,Mandiana,GIN004004,Faralako,GIN00400403,Haute Guinee
+Guinea,GIN,Faranah,GIN003,Faranah,GIN003003,Faranah Ctre,GIN00300303,Haute Guinee
+Guinea,GIN,Kindia,GIN005,Forecariah,GIN005003,Farmoriah,GIN00500303,Basse Guinee
+Guinea,GIN,Nzerekore,GIN008,Macenta,GIN008003,Fassankoni,GIN00800305,Guinee Forestiere
+Guinea,GIN,Labe,GIN006,Tougue,GIN006005,Fatako,GIN00600501,Moyenne Guinee
+Guinea,GIN,Labe,GIN006,Tougue,GIN006005,Fello Koundoua,GIN00600502,Moyenne Guinee
+Guinea,GIN,Faranah,GIN003,Kissidougou,GIN003004,Fermessadou,GIN00300405,Guinee Forestiere
+Guinea,GIN,Faranah,GIN003,Kissidougou,GIN003004,Firawa,GIN00300406,Guinee Forestiere
+Guinea,GIN,Kindia,GIN005,Forecariah,GIN005003,Forecariah Ctre,GIN00500304,Basse Guinee
+Guinea,GIN,Nzerekore,GIN008,Beyla,GIN008001,Fouala,GIN00800105,Guinee Forestiere
+Guinea,GIN,Labe,GIN006,Mali,GIN006004,Fougou,GIN00600404,Moyenne Guinee
+Guinea,GIN,Boke,GIN001,Gaoual,GIN001003,Foulamory,GIN00100301,Moyenne Guinee
+Guinea,GIN,Nzerekore,GIN008,Lola,GIN008002,Foumbadou,GIN00800202,Guinee Forestiere
+Guinea,GIN,Kankan,GIN004,Siguiri,GIN004005,Franwalia,GIN00400503,Haute Guinee
+Guinea,GIN,Kindia,GIN005,Fria,GIN005006,Fria Ctre,GIN00500603,Basse Guinee
+Guinea,GIN,Kindia,GIN005,Kindia,GIN005004,Friguiagbe,GIN00500403,Basse Guinee
+Guinea,GIN,Labe,GIN006,Koubia,GIN006001,Gadha Woundou,GIN00600102,Moyenne Guinee
+Guinea,GIN,Faranah,GIN003,Dinguiraye,GIN003002,Gagnakaly,GIN00300205,Haute Guinee
+Guinea,GIN,Nzerekore,GIN008,Lola,GIN008002,Gama Berema,GIN00800203,Guinee Forestiere
+Guinea,GIN,Boke,GIN001,Gaoual,GIN001003,Gaoual Ctre,GIN00100302,Moyenne Guinee
+Guinea,GIN,Labe,GIN006,Labe,GIN006002,Garambe,GIN00600205,Moyenne Guinee
+Guinea,GIN,Labe,GIN006,Mali,GIN006004,Gayah,GIN00600405,Moyenne Guinee
+Guinea,GIN,Nzerekore,GIN008,Beyla,GIN008001,Gbakedou,GIN00800106,Guinee Forestiere
+Guinea,GIN,Faranah,GIN003,Kissidougou,GIN003004,Gbangbadou,GIN00300407,Guinee Forestiere
+Guinea,GIN,Kankan,GIN004,Kankan,GIN004001,Gberedou Baranama,GIN00400104,Haute Guinee
+Guinea,GIN,Nzerekore,GIN008,Beyla,GIN008001,Gbessoba,GIN00800107,Guinee Forestiere
+Guinea,GIN,Faranah,GIN003,Faranah,GIN003003,Gnaleah,GIN00300304,Haute Guinee
+Guinea,GIN,Mamou,GIN007,Pita,GIN007003,Gongoret,GIN00700304,Moyenne Guinee
+Guinea,GIN,Mamou,GIN007,Mamou,GIN007002,Gongoret,GIN00700203,Moyenne Guinee
+Guinea,GIN,Nzerekore,GIN008,Nzerekore,GIN008004,Gouecke,GIN00800402,Guinee Forestiere
+Guinea,GIN,Kindia,GIN005,Telemele,GIN005005,Gougoudje,GIN00500503,Basse Guinee
+Guinea,GIN,Nzerekore,GIN008,Lola,GIN008002,Gueasso,GIN00800204,Guinee Forestiere
+Guinea,GIN,Nzerekore,GIN008,Gueckedou,GIN008006,Gueckedou Ctre,GIN00800603,Guinee Forestiere
+Guinea,GIN,Nzerekore,GIN008,Gueckedou,GIN008006,Guendembou,GIN00800604,Guinee Forestiere
+Guinea,GIN,Boke,GIN001,Koundara,GIN001004,Guinguan,GIN00100401,Moyenne Guinee
+Guinea,GIN,Labe,GIN006,Labe,GIN006002,Hafia,GIN00600206,Moyenne Guinee
+Guinea,GIN,Faranah,GIN003,Faranah,GIN003003,Heremakono,GIN00300305,Haute Guinee
+Guinea,GIN,Labe,GIN006,Lelouma,GIN006003,Herico,GIN00600303,Moyenne Guinee
+Guinea,GIN,Labe,GIN006,Mali,GIN006004,Hidayatou,GIN00600406,Moyenne Guinee
+Guinea,GIN,Mamou,GIN007,Dalaba,GIN007001,Kaala,GIN00700104,Moyenne Guinee
+Guinea,GIN,Labe,GIN006,Labe,GIN006002,Kaalan,GIN00600207,Moyenne Guinee
+Guinea,GIN,Kindia,GIN005,Forecariah,GIN005003,Kaback,GIN00500305,Basse Guinee
+Guinea,GIN,Boke,GIN001,Gaoual,GIN001003,Kakony,GIN00100303,Moyenne Guinee
+Guinea,GIN,Kindia,GIN005,Forecariah,GIN005003,Kakossa,GIN00500306,Basse Guinee
+Guinea,GIN,Kindia,GIN005,Forecariah,GIN005003,Kaliah,GIN00500307,Basse Guinee
+Guinea,GIN,Faranah,GIN003,Dinguiraye,GIN003002,Kalinko,GIN00300206,Haute Guinee
+Guinea,GIN,Boke,GIN001,Koundara,GIN001004,Kamabi,GIN00100402,Moyenne Guinee
+Guinea,GIN,Boke,GIN001,Boke,GIN001002,Kamsar,GIN00100204,Basse Guinee
+Guinea,GIN,Mamou,GIN007,Dalaba,GIN007001,Kankalabe,GIN00700105,Moyenne Guinee
+Guinea,GIN,Faranah,GIN003,Dabola,GIN003001,Kankama,GIN00300106,Haute Guinee
+Guinea,GIN,Kankan,GIN004,Kankan,GIN004001,Kankan Ctre,GIN00400105,Haute Guinee
+Guinea,GIN,Labe,GIN006,Tougue,GIN006005,Kansangui,GIN00600503,Moyenne Guinee
+Guinea,GIN,Kankan,GIN004,Mandiana,GIN004004,Kantoumanina,GIN00400404,Haute Guinee
+Guinea,GIN,Nzerekore,GIN008,Beyla,GIN008001,Karala,GIN00800108,Guinee Forestiere
+Guinea,GIN,Kankan,GIN004,Kankan,GIN004001,Karifamoriah,GIN00400106,Haute Guinee
+Guinea,GIN,Nzerekore,GIN008,Gueckedou,GIN008006,Kassadou,GIN00800605,Guinee Forestiere
+Guinea,GIN,Mamou,GIN007,Dalaba,GIN007001,Kebali,GIN00700106,Moyenne Guinee
+Guinea,GIN,Mamou,GIN007,Mamou,GIN007002,Kegneko,GIN00700204,Moyenne Guinee
+Guinea,GIN,Kankan,GIN004,Kerouane,GIN004002,Kerouane Ctre,GIN00400203,Haute Guinee
+Guinea,GIN,Kindia,GIN005,Dubreka,GIN005002,Khorira,GIN00500204,Basse Guinee
+Guinea,GIN,Kindia,GIN005,Kindia,GIN005004,Kindia Ctre,GIN00500404,Basse Guinee
+Guinea,GIN,Faranah,GIN003,Dabola,GIN003001,Kindoye,GIN00300107,Haute Guinee
+Guinea,GIN,Kankan,GIN004,Siguiri,GIN004005,Kiniebakoura,GIN00400504,Haute Guinee
+Guinea,GIN,Kankan,GIN004,Mandiana,GIN004004,Kinieran,GIN00400405,Haute Guinee
+Guinea,GIN,Kankan,GIN004,Kouroussa,GIN004003,Kiniero,GIN00400308,Haute Guinee
+Guinea,GIN,Kankan,GIN004,Siguiri,GIN004005,Kintinian,GIN00400505,Haute Guinee
+Guinea,GIN,Faranah,GIN003,Kissidougou,GIN003004,Kissidougou Ctre,GIN00300408,Guinee Forestiere
+Guinea,GIN,Mamou,GIN007,Dalaba,GIN007001,Koba,GIN00700107,Basse Guinee
+Guinea,GIN,Kindia,GIN005,Telemele,GIN005005,Koba,GIN00500504,Basse Guinee
+Guinea,GIN,Boke,GIN001,Boffa,GIN001001,Koba Tatema,GIN00100103,Basse Guinee
+Guinea,GIN,Nzerekore,GIN008,Nzerekore,GIN008004,Kobela,GIN00800403,Guinee Forestiere
+Guinea,GIN,Faranah,GIN003,Faranah,GIN003003,Kobikoro,GIN00300306,Haute Guinee
+Guinea,GIN,Labe,GIN006,Tougue,GIN006005,Koin,GIN00600504,Moyenne Guinee
+Guinea,GIN,Nzerekore,GIN008,Lola,GIN008002,Kokota,GIN00800205,Guinee Forestiere
+Guinea,GIN,Boke,GIN001,Boke,GIN001002,Kolaboui,GIN00100206,Basse Guinee
+Guinea,GIN,Labe,GIN006,Tougue,GIN006005,Kolangui,GIN00600505,Moyenne Guinee
+Guinea,GIN,Kindia,GIN005,Kindia,GIN005004,Kolente,GIN00500405,Basse Guinee
+Guinea,GIN,Boke,GIN001,Boffa,GIN001001,Kolia,GIN00100104,Basse Guinee
+Guinea,GIN,Kindia,GIN005,Telemele,GIN005005,Kollet,GIN00500505,Basse Guinee
+Guinea,GIN,Labe,GIN006,Tougue,GIN006005,Kolet,GIN00600506,Moyenne Guinee
+Guinea,GIN,Kankan,GIN004,Kerouane,GIN004002,Komodou,GIN00400204,Haute Guinee
+Guinea,GIN,Kankan,GIN004,Kouroussa,GIN004003,Komola Khoura,GIN00400309,Haute Guinee
+Guinea,GIN,Labe,GIN006,Tougue,GIN006005,Konah,GIN00600507,Moyenne Guinee
+Guinea,GIN,Faranah,GIN003,Kissidougou,GIN003004,Kondiadou,GIN00300409,Guinee Forestiere
+Guinea,GIN,Faranah,GIN003,Dabola,GIN003001,Konendou,GIN00300108,Haute Guinee
+Guinea,GIN,Kankan,GIN004,Kerouane,GIN004002,Konsankoro,GIN00400205,Haute Guinee
+Guinea,GIN,Kindia,GIN005,Telemele,GIN005005,Konsotami,GIN00500506,Basse Guinee
+Guinea,GIN,Labe,GIN006,Lelouma,GIN006003,Korbe,GIN00600304,Moyenne Guinee
+Guinea,GIN,Nzerekore,GIN008,Nzerekore,GIN008004,Koropara,GIN00800404,Guinee Forestiere
+Guinea,GIN,Nzerekore,GIN008,Macenta,GIN008003,Kouankan,GIN00800306,Guinee Forestiere
+Guinea,GIN,Labe,GIN006,Koubia,GIN006001,Koubia Ctre,GIN00600103,Moyenne Guinee
+Guinea,GIN,Nzerekore,GIN008,Nzerekore,GIN008004,Koule,GIN00800405,Guinee Forestiere
+Guinea,GIN,Kankan,GIN004,Kouroussa,GIN004003,Koumana,GIN00400310,Haute Guinee
+Guinea,GIN,Nzerekore,GIN008,Beyla,GIN008001,Koumandou,GIN00800109,Guinee Forestiere
+Guinea,GIN,Kankan,GIN004,Kankan,GIN004001,Koumban,GIN00400107,Haute Guinee
+Guinea,GIN,Boke,GIN001,Gaoual,GIN001003,Koumbia,GIN00100304,Moyenne Guinee
+Guinea,GIN,Boke,GIN001,Koundara,GIN001004,Koundara Ctre,GIN00100403,Moyenne Guinee
+Guinea,GIN,Kankan,GIN004,Mandiana,GIN004004,Koundian,GIN00400406,Haute Guinee
+Guinea,GIN,Kankan,GIN004,Mandiana,GIN004004,Koundianakoro,GIN00400407,Haute Guinee
+Guinea,GIN,Nzerekore,GIN008,Gueckedou,GIN008006,Koundou,GIN00800606,Guinee Forestiere
+Guinea,GIN,Mamou,GIN007,Mamou,GIN007002,Kounkoure,GIN00700205,Moyenne Guinee
+Guinea,GIN,Boke,GIN001,Gaoual,GIN001003,Kounsitel,GIN00100305,Moyenne Guinee
+Guinea,GIN,Labe,GIN006,Labe,GIN006002,Kouramangui,GIN00600208,Moyenne Guinee
+Guinea,GIN,Labe,GIN006,Tougue,GIN006005,Kouratongo,GIN00600508,Moyenne Guinee
+Guinea,GIN,Kindia,GIN005,Coyah,GIN005001,Kouria,GIN00500102,Basse Guinee
+Guinea,GIN,Kankan,GIN004,Kouroussa,GIN004003,Kouroussa Ctre,GIN00400311,Haute Guinee
+Guinea,GIN,Nzerekore,GIN008,Macenta,GIN008003,Koyamah,GIN00800307,Guinee Forestiere
+Guinea,GIN,Labe,GIN006,Labe,GIN006002,Labe Ctre,GIN00600209,Moyenne Guinee
+Guinea,GIN,Labe,GIN006,Lelouma,GIN006003,Lafou,GIN00600305,Moyenne Guinee
+Guinea,GIN,Nzerekore,GIN008,Lola,GIN008002,Laine,GIN00800206,Guinee Forestiere
+Guinea,GIN,Faranah,GIN003,Dinguiraye,GIN003002,Lansanaya,GIN00300207,Haute Guinee
+Guinea,GIN,Labe,GIN006,Mali,GIN006004,Lebekeren,GIN00600407,Moyenne Guinee
+Guinea,GIN,Labe,GIN006,Lelouma,GIN006003,Lelouma Ctre,GIN00600306,Moyenne Guinee
+Guinea,GIN,Mamou,GIN007,Pita,GIN007003,Ley Miro,GIN00700305,Moyenne Guinee
+Guinea,GIN,Kankan,GIN004,Kerouane,GIN004002,Linko,GIN00400206,Haute Guinee
+Guinea,GIN,Labe,GIN006,Lelouma,GIN006003,Linsan Saran,GIN00600307,Moyenne Guinee
+Guinea,GIN,Boke,GIN001,Boffa,GIN001001,Lisso,GIN00100105,Basse Guinee
+Guinea,GIN,Nzerekore,GIN008,Lola,GIN008002,Lola Ctre,GIN00800207,Guinee Forestiere
+Guinea,GIN,Nzerekore,GIN008,Macenta,GIN008003,Macenta Ctre,GIN00800308,Guinee Forestiere
+Guinea,GIN,Mamou,GIN007,Pita,GIN007003,Maci,GIN00700306,Moyenne Guinee
+Guinea,GIN,Kindia,GIN005,Kindia,GIN005004,Madina Oula,GIN00500406,Basse Guinee
+Guinea,GIN,Labe,GIN006,Mali,GIN006004,Madina Wora,GIN00600408,Moyenne Guinee
+Guinea,GIN,Mamou,GIN007,Dalaba,GIN007001,Mafara,GIN00700108,Moyenne Guinee
+Guinea,GIN,Kindia,GIN005,Forecariah,GIN005003,Maferinya,GIN00500308,Basse Guinee
+Guinea,GIN,Boke,GIN001,Gaoual,GIN001003,Malanta,GIN00100306,Moyenne Guinee
+Guinea,GIN,Boke,GIN001,Boke,GIN001002,Malapouya,GIN00100207,Basse Guinee
+Guinea,GIN,Kankan,GIN004,Siguiri,GIN004005,Malea,GIN00400506,Haute Guinee
+Guinea,GIN,Labe,GIN006,Mali,GIN006004,Mali Ctre,GIN00600409,Moyenne Guinee
+Guinea,GIN,Kindia,GIN005,Kindia,GIN005004,Mambia,GIN00500407,Basse Guinee
+Guinea,GIN,Mamou,GIN007,Mamou,GIN007002,Mamou Ctre,GIN00700206,Moyenne Guinee
+Guinea,GIN,Kankan,GIN004,Kankan,GIN004001,Mamouroudou,GIN00400108,Haute Guinee
+Guinea,GIN,Labe,GIN006,Lelouma,GIN006003,Manda,GIN00600308,Moyenne Guinee
+Guinea,GIN,Kankan,GIN004,Mandiana,GIN004004,Mandiana Ctre,GIN00400408,Haute Guinee
+Guinea,GIN,Kindia,GIN005,Coyah,GIN005001,Maneah,GIN00500103,Basse Guinee
+Guinea,GIN,Faranah,GIN003,Kissidougou,GIN003004,Manfran,GIN00300410,Guinee Forestiere
+Guinea,GIN,Boke,GIN001,Boffa,GIN001001,Mankountan,GIN00100106,Basse Guinee
+Guinea,GIN,Faranah,GIN003,Faranah,GIN003003,Marella,GIN00300307,Haute Guinee
+Guinea,GIN,Labe,GIN006,Koubia,GIN006001,Matakaou,GIN00600104,Moyenne Guinee
+Guinea,GIN,Kankan,GIN004,Kankan,GIN004001,Missamana,GIN00400109,Haute Guinee
+Guinea,GIN,Labe,GIN006,Koubia,GIN006001,Missira,GIN00600105,Basse Guinee
+Guinea,GIN,Kindia,GIN005,Telemele,GIN005005,Missira,GIN00500507,Basse Guinee
+Guinea,GIN,Mamou,GIN007,Dalaba,GIN007001,Mitty,GIN00700109,Moyenne Guinee
+Guinea,GIN,Kindia,GIN005,Kindia,GIN005004,Molota,GIN00500408,Basse Guinee
+Guinea,GIN,Mamou,GIN007,Dalaba,GIN007001,Mombeyah,GIN00700110,Moyenne Guinee
+Guinea,GIN,Kankan,GIN004,Kankan,GIN004001,Moribayah,GIN00400110,Haute Guinee
+Guinea,GIN,Kankan,GIN004,Mandiana,GIN004004,Morodou,GIN00400409,Haute Guinee
+Guinea,GIN,Nzerekore,GIN008,Beyla,GIN008001,Moussadou,GIN00800110,Guinee Forestiere
+Guinea,GIN,Kindia,GIN005,Forecariah,GIN005003,Moussayah,GIN00500309,Basse Guinee
+Guinea,GIN,Faranah,GIN003,Dabola,GIN003001,Ndema,GIN00300109,Haute Guinee
+Guinea,GIN,Nzerekore,GIN008,Macenta,GIN008003,Nzebela,GIN00800309,Guinee Forestiere
+Guinea,GIN,Nzerekore,GIN008,Nzerekore,GIN008004,Nzerekore Ctre,GIN00800406,Guinee Forestiere
+Guinea,GIN,Nzerekore,GIN008,Lola,GIN008002,Nzoo,GIN00800208,Guinee Forestiere
+Guinea,GIN,Kankan,GIN004,Siguiri,GIN004005,Naboun,GIN00400507,Haute Guinee
+Guinea,GIN,Kankan,GIN004,Siguiri,GIN004005,Niagassola,GIN00400508,Haute Guinee
+Guinea,GIN,Kankan,GIN004,Siguiri,GIN004005,Niandankoro,GIN00400509,Haute Guinee
+Guinea,GIN,Kankan,GIN004,Mandiana,GIN004004,Niantanina,GIN00400410,Haute Guinee
+Guinea,GIN,Mamou,GIN007,Pita,GIN007003,Ninguelande,GIN00700307,Moyenne Guinee
+Guinea,GIN,Nzerekore,GIN008,Beyla,GIN008001,Nionsomoridou,GIN00800111,Guinee Forestiere
+Guinea,GIN,Nzerekore,GIN008,Gueckedou,GIN008006,Nongoa,GIN00800607,Guinee Forestiere
+Guinea,GIN,Kankan,GIN004,Siguiri,GIN004005,Norassoba,GIN00400510,Haute Guinee
+Guinea,GIN,Labe,GIN006,Labe,GIN006002,Noussy,GIN00600210,Moyenne Guinee
+Guinea,GIN,Mamou,GIN007,Mamou,GIN007002,Nyagara,GIN00700207,Moyenne Guinee
+Guinea,GIN,Kindia,GIN005,Dubreka,GIN005002,Ouassou,GIN00500205,Basse Guinee
+Guinea,GIN,Nzerekore,GIN008,Gueckedou,GIN008006,Ouende Kenema,GIN00800608,Guinee Forestiere
+Guinea,GIN,Mamou,GIN007,Mamou,GIN007002,Oure Kaba,GIN00700208,Moyenne Guinee
+Guinea,GIN,Nzerekore,GIN008,Macenta,GIN008003,Ouremai,GIN00800310,Guinee Forestiere
+Guinea,GIN,Nzerekore,GIN008,Nzerekore,GIN008004,Pale,GIN00800407,Guinee Forestiere
+Guinea,GIN,Nzerekore,GIN008,Macenta,GIN008003,Panziazou,GIN00800311,Guinee Forestiere
+Guinea,GIN,Labe,GIN006,Lelouma,GIN006003,Parawol,GIN00600309,Moyenne Guinee
+Guinea,GIN,Faranah,GIN003,Faranah,GIN003003,Passaya,GIN00300308,Haute Guinee
+Guinea,GIN,Nzerekore,GIN008,Yomou,GIN008005,Pela,GIN00800506,Guinee Forestiere
+Guinea,GIN,Labe,GIN006,Koubia,GIN006001,Pilimini,GIN00600106,Moyenne Guinee
+Guinea,GIN,Mamou,GIN007,Pita,GIN007003,Pita Ctre,GIN00700308,Moyenne Guinee
+Guinea,GIN,Labe,GIN006,Labe,GIN006002,Popodara,GIN00600211,Moyenne Guinee
+Guinea,GIN,Mamou,GIN007,Mamou,GIN007002,Poredaka,GIN00700209,Moyenne Guinee
+Guinea,GIN,Kankan,GIN004,Kankan,GIN004001,Sabadou Baranama,GIN00400111,Haute Guinee
+Guinea,GIN,Labe,GIN006,Lelouma,GIN006003,Sagale,GIN00600310,Moyenne Guinee
+Guinea,GIN,Nzerekore,GIN008,Beyla,GIN008001,Sakourala,GIN00800112,Guinee Forestiere
+Guinea,GIN,Kankan,GIN004,Mandiana,GIN004004,Saladou,GIN00400411,Haute Guinee
+Guinea,GIN,Labe,GIN006,Mali,GIN006004,Salambande,GIN00600410,Moyenne Guinee
+Guinea,GIN,Nzerekore,GIN008,Beyla,GIN008001,Samana,GIN00800113,Guinee Forestiere
+Guinea,GIN,Kindia,GIN005,Kindia,GIN005004,Samaya,GIN00500409,Basse Guinee
+Guinea,GIN,Boke,GIN001,Koundara,GIN001004,Sambailo,GIN00100404,Moyenne Guinee
+Guinea,GIN,Nzerekore,GIN008,Nzerekore,GIN008004,Samoe,GIN00800408,Guinee Forestiere
+Guinea,GIN,Faranah,GIN003,Faranah,GIN003003,Sandenia,GIN00300309,Haute Guinee
+Guinea,GIN,Faranah,GIN003,Kissidougou,GIN003004,Sangardo,GIN00300411,Guinee Forestiere
+Guinea,GIN,Mamou,GIN007,Pita,GIN007003,Sangareah,GIN00700309,Moyenne Guinee
+Guinea,GIN,Boke,GIN001,Boke,GIN001002,Sangaredi,GIN00100208,Basse Guinee
+Guinea,GIN,Kankan,GIN004,Kouroussa,GIN004003,Sanguiana,GIN00400312,Haute Guinee
+Guinea,GIN,Labe,GIN006,Labe,GIN006002,Sannou,GIN00600212,Moyenne Guinee
+Guinea,GIN,Boke,GIN001,Boke,GIN001002,Sansale,GIN00100209,Basse Guinee
+Guinea,GIN,Kankan,GIN004,Mandiana,GIN004004,Sansando,GIN00400412,Haute Guinee
+Guinea,GIN,Kindia,GIN005,Telemele,GIN005005,Santou,GIN00500508,Basse Guinee
+Guinea,GIN,Mamou,GIN007,Mamou,GIN007002,Saramoussaya,GIN00700210,Moyenne Guinee
+Guinea,GIN,Boke,GIN001,Koundara,GIN001004,Sareboido,GIN00100405,Moyenne Guinee
+Guinea,GIN,Kindia,GIN005,Telemele,GIN005005,Sarekali,GIN00500509,Basse Guinee
+Guinea,GIN,Faranah,GIN003,Dinguiraye,GIN003002,Selouma,GIN00300208,Haute Guinee
+Guinea,GIN,Nzerekore,GIN008,Macenta,GIN008003,Sengbedou,GIN00800312,Guinee Forestiere
+Guinea,GIN,Nzerekore,GIN008,Macenta,GIN008003,Seredou,GIN00800313,Guinee Forestiere
+Guinea,GIN,Kankan,GIN004,Kerouane,GIN004002,Sibiribaro,GIN00400207,Haute Guinee
+Guinea,GIN,Kankan,GIN004,Siguiri,GIN004005,Siguiri Ctre,GIN00400511,Haute Guinee
+Guinea,GIN,Kankan,GIN004,Siguiri,GIN004005,Siguirini,GIN00400512,Haute Guinee
+Guinea,GIN,Kindia,GIN005,Forecariah,GIN005003,Sikhourou,GIN00500310,Basse Guinee
+Guinea,GIN,Nzerekore,GIN008,Beyla,GIN008001,Sinko,GIN00800114,Guinee Forestiere
+Guinea,GIN,Kindia,GIN005,Telemele,GIN005005,Sinta,GIN00500510,Basse Guinee
+Guinea,GIN,Mamou,GIN007,Pita,GIN007003,Sintali,GIN00700310,Moyenne Guinee
+Guinea,GIN,Kindia,GIN005,Telemele,GIN005005,Sogolon,GIN00500511,Basse Guinee
+Guinea,GIN,Faranah,GIN003,Faranah,GIN003003,Songoyah,GIN00300310,Haute Guinee
+Guinea,GIN,Kankan,GIN004,Kerouane,GIN004002,Soromaya,GIN00400208,Haute Guinee
+Guinea,GIN,Kindia,GIN005,Kindia,GIN005004,Sougueta,GIN00500410,Basse Guinee
+Guinea,GIN,Nzerekore,GIN008,Nzerekore,GIN008004,Soulouta,GIN00800409,Guinee Forestiere
+Guinea,GIN,Mamou,GIN007,Mamou,GIN007002,Soyah,GIN00700211,Moyenne Guinee
+Guinea,GIN,Boke,GIN001,Boffa,GIN001001,Tamita,GIN00100107,Basse Guinee
+Guinea,GIN,Boke,GIN005,Boke,GIN005002,Tanene,GIN00500210,Basse Guinee
+Guinea,GIN,Kindia,GIN001,Dubreka,GIN001002,Tanene,GIN00100210,Basse Guinee
+Guinea,GIN,Labe,GIN006,Tougue,GIN006005,Tangali,GIN00600509,Moyenne Guinee
+Guinea,GIN,Kindia,GIN005,Telemele,GIN005005,Tarihoye,GIN00500512,Basse Guinee
+Guinea,GIN,Mamou,GIN007,Mamou,GIN007002,Teguereyah,GIN00700212,Moyenne Guinee
+Guinea,GIN,Nzerekore,GIN008,Gueckedou,GIN008006,Tekoulo,GIN00800609,Guinee Forestiere
+Guinea,GIN,Kindia,GIN005,Telemele,GIN005005,Telimele Ctre,GIN00500513,Basse Guinee
+Guinea,GIN,Labe,GIN006,Mali,GIN006004,Telire,GIN00600411,Moyenne Guinee
+Guinea,GIN,Nzerekore,GIN008,Gueckedou,GIN008006,Termassadou,GIN00800610,Guinee Forestiere
+Guinea,GIN,Boke,GIN001,Koundara,GIN001004,Termesse,GIN00100406,Moyenne Guinee
+Guinea,GIN,Kindia,GIN005,Telemele,GIN005005,Thionthian,GIN00500514,Basse Guinee
+Guinea,GIN,Labe,GIN006,Lelouma,GIN006003,Tianguel Bori,GIN00600311,Moyenne Guinee
+Guinea,GIN,Mamou,GIN007,Pita,GIN007003,Timbi Madina,GIN00700311,Moyenne Guinee
+Guinea,GIN,Mamou,GIN007,Pita,GIN007003,Timbi Touni,GIN00700312,Moyenne Guinee
+Guinea,GIN,Mamou,GIN007,Mamou,GIN007002,Timbo,GIN00700213,Moyenne Guinee
+Guinea,GIN,Kankan,GIN004,Kankan,GIN004001,Tinti Oulen,GIN00400112,Haute Guinee
+Guinea,GIN,Faranah,GIN003,Faranah,GIN003003,Tiro,GIN00300311,Haute Guinee
+Guinea,GIN,Kankan,GIN004,Kankan,GIN004001,Tokounou,GIN00400113,Haute Guinee
+Guinea,GIN,Mamou,GIN007,Mamou,GIN007002,Tolo,GIN00700214,Moyenne Guinee
+Guinea,GIN,Kindia,GIN005,Dubreka,GIN005002,Tondon,GIN00500207,Basse Guinee
+Guinea,GIN,Kindia,GIN005,Fria,GIN005006,Tormelin,GIN00500604,Basse Guinee
+Guinea,GIN,Labe,GIN006,Mali,GIN006004,Touba,GIN00600412,Moyenne Guinee
+Guinea,GIN,Boke,GIN001,Gaoual,GIN001003,Touba,GIN00100307,Moyenne Guinee
+Guinea,GIN,Boke,GIN001,Boffa,GIN001001,Tougnifily,GIN00100108,Basse Guinee
+Guinea,GIN,Labe,GIN006,Tougue,GIN006005,Tougue Ctre,GIN00600510,Moyenne Guinee
+Guinea,GIN,Nzerekore,GIN008,Lola,GIN008002,Tounkarata,GIN00800209,Guinee Forestiere
+Guinea,GIN,Labe,GIN006,Labe,GIN006002,Tountourou,GIN00600213,Moyenne Guinee
+Guinea,GIN,Nzerekore,GIN008,Macenta,GIN008003,Vasseredou,GIN00800314,Guinee Forestiere
+Guinea,GIN,Nzerekore,GIN008,Macenta,GIN008003,Watanka,GIN00800315,Guinee Forestiere
+Guinea,GIN,Boke,GIN001,Gaoual,GIN001003,Wendou Mbour,GIN00100308,Moyenne Guinee
+Guinea,GIN,Nzerekore,GIN008,Nzerekore,GIN008004,Womey,GIN00800410,Guinee Forestiere
+Guinea,GIN,Kindia,GIN005,Coyah,GIN005001,Wonkifong,GIN00500104,Basse Guinee
+Guinea,GIN,Nzerekore,GIN008,Nzerekore,GIN008004,Yalenzou,GIN00800411,Guinee Forestiere
+Guinea,GIN,Faranah,GIN003,Kissidougou,GIN003004,Yende Millimou,GIN00300412,Guinee Forestiere
+Guinea,GIN,Labe,GIN006,Mali,GIN006004,Yimbering,GIN00600413,Moyenne Guinee
+Guinea,GIN,Faranah,GIN003,Kissidougou,GIN003004,Yombiro,GIN00300413,Guinee Forestiere
+Guinea,GIN,Nzerekore,GIN008,Yomou,GIN008005,Yomou Ctre,GIN00800507,Guinee Forestiere
+Guinea,GIN,Boke,GIN001,Koundara,GIN001004,Youkounkoun,GIN00100407,Moyenne Guinee
+Guinea,GIN,Boke,GIN001,Boke,GIN001002,Kanfarande,GIN00100205,Basse Guinee
+Guinea,GIN,Conakry,GIN002,Conakry,GIN002001,Dixinn,GIN00200101,Basse Guinee
+Guinea,GIN,Conakry,GIN002,Conakry,GIN002001,Kaloum,GIN00200102,Basse Guinee
+Guinea,GIN,Conakry,GIN002,Conakry,GIN002001,Matam,GIN00200103,Basse Guinee
+Guinea,GIN,Conakry,GIN002,Conakry,GIN002001,Ratoma,GIN00200105,Basse Guinee
+Guinea,GIN,Conakry,GIN002,Conakry,GIN002001,Matoto,GIN00200104,Basse Guinee
+Guinea,GIN,Faranah,GIN003,Faranah,GIN003003,Banian,GIN00300301,Guinee Forestiere

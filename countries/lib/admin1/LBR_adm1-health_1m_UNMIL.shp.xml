@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20141008</CreaDate><CreaTime>10075700</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20141008" Time="100757">CalculateField LBR_adm1-health_1m_UNMIL ADM1_CODE "[CNTRY_CODE] + [CCODE2K2]" VB #</Process></lineage></DataProperties></Esri></metadata>
